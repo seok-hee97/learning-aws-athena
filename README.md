@@ -1,0 +1,4 @@
+# Learning Amazon Athena
+
+
+Do you need to perform queries on terabytes of data? Would you like to leverage the power of the cloud to get insight on your data faster? In this course, join cloud security professional Uduak Sonuyi to explore Amazon Athena, a data management service, and how you can use it to analyze logs and CSV data files. Get an introduction to Amazon Athena and learn how to determine when it is the right tool for your task at hand. Go through the full process of analyzing logs with Amazon Athena. Learn about AWS Glue, as well as how to create an AWS Glue Crawler and use it with Athena. Plus, find out how to visualize data in Amazon Athena and design cost-effective queries. Uduak has worked with Amazon Web Services and SQL for over seven years and trained thousands of individuals to do the same. If you’re ready to leverage your SQL on the cloud, then get started here!
